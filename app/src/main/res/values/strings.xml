@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabFragmentTask</string>
+    <string name="message">This is my another fragment</string>
+</resources>
